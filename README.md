@@ -18,15 +18,6 @@
 
 
 
-### Recent Github Activity
-  
-  <!--START_SECTION:activity-->
-
- 
-  <!--END_SECTION:activity-->
----
-
-
 ### Github Stats
 
   <img align="left" alt="Mayankpi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mayankpi&show_icons=true&hide_border=true&theme=dracula" />
