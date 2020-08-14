@@ -1,28 +1,28 @@
-### Hi there, I'm Mayank - aka [Mayankpi][website] 👋
+1. undefined
 
-## I'm a Student, Developer, and Teacher!
+2. undefined
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+3. undefined
+4. undefined
 
-### Connect with me:
+5. undefined
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+6. undefined
+7. undefined
+8. undefined
 
-<br />
-
-
----
+9. undefined
 
 
-
-### Github Stats
-
-  <img align="left" alt="Mayankpi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mayankpi&show_icons=true&hide_border=true&theme=dracula" />
+10. undefined
 
 
-[website]: https://mayankpi.github.io/
-[twitter]: https://twitter.com/Mayankpi
-[linkedin]: https://www.linkedin.com/in/mayank-maurya-4ab84b113/
+
+11. undefined
+
+12. undefined
+
+
+13. undefined
+14. undefined
+15. undefined
