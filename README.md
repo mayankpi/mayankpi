@@ -18,22 +18,19 @@
 
 
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+### Recent Github Activity
   
   <!--START_SECTION:activity-->
 
  
   <!--END_SECTION:activity-->
+---
 
-</details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
+### Github Stats
 
   <img align="left" alt="Mayankpi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mayankpi&show_icons=true&hide_border=true&theme=dracula" />
 
-</details>
 
 [website]: https://mayankpi.github.io/
 [twitter]: https://twitter.com/Mayankpi
