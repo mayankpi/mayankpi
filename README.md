@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mayankm522@gmail.com**
 
-- 📄 Know about my experiences [https://mayank-maurya.com/static/media/Mayank_Maurya_Resume.133d601a052005c58f48.pdf](https://mayank-maurya.com/static/media/Mayank_Maurya_Resume.133d601a052005c58f48.pdf)
+- 📄 Know about my experiences [Download Resume - Last Updated 21-07-2023](https://mayank-maurya.com/static/media/Mayank%20Maurya%20-%20Software%20Engineer.55e758e598d2a28a2810.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
