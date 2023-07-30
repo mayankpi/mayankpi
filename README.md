@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankpi&show_icons=true&locale=en&layout=compact" alt="mayankpi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankpi&show_icons=true&locale=en" alt="mayankpi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankpi&" alt="mayankpi" /></p>
